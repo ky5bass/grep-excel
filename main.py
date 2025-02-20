@@ -1,7 +1,6 @@
 import re
 from pathlib import Path
 import openpyxl
-import openpyxl.cell
 
 def main():
     # 各項目を標準入力から取得
